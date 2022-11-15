@@ -56,7 +56,7 @@ async def chatbot(client, message):
 ┣★ ɴᴇᴛᴡᴏʀᴋ [ᴄᴏʙʀᴀ](https://t.me/old_tym)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Cobra8xop",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Cobra8xop""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🌼 ǫᴜᴇᴇɴ ᴄʜᴀᴛ 💮", url=f"https://t.me/queen_Help_xd")]]
         ),
